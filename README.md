@@ -8,7 +8,7 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 
 1: Clone repo
 ```
-git clone https://github.com/satishkurelly/Angularjs2.X.git
+git clone https://github.com/satishkurelly/angular2-beta-seed.git
 ```
 2: Install packages
 ```
